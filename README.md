@@ -2,6 +2,9 @@
 
 A cinematic luxury watch website featuring scroll-driven storytelling, interactive animations, and a complete frontend-only demo shopping experience.
 
+## Live Link 
+https://auren-liart-nine.vercel.app/
+
 ## Features
 
 - Cinematic scroll-driven watch animations
